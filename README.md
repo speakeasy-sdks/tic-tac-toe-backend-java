@@ -6,7 +6,7 @@
 ### Gradle
 
 ```groovy
-implementation 'tic_tac_toe_backend.tic_tac_toe_backends:tic-tac-toe-backend:1.4.1'
+implementation 'tic_tac_toe_backend.tic_tac_toe_backends:tic-tac-toe-backend:1.5.0'
 ```
 <!-- End SDK Installation -->
 
