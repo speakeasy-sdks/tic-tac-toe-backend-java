@@ -6,12 +6,14 @@
 ### Gradle
 
 ```groovy
-implementation 'tic_tac_toe_backend.tic_tac_toe_backends:tic-tac-toe-backend:1.5.0'
+implementation 'tic_tac_toe_backend.tic_tac_toe_backends:tic-tac-toe-backend:1.6.0'
 ```
 <!-- End SDK Installation -->
 
 ## SDK Example Usage
 <!-- Start SDK Example Usage -->
+
+
 ```java
 package hello.world;
 
