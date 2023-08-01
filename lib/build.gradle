@@ -41,7 +41,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'tic-tac-toe-backend'
             artifactId = 'tic-tac-toe-backends'
-            version = '1.10.0'
+            version = '1.10.1'
 
             from components.java
 
